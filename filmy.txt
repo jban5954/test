@@ -47,6 +47,7 @@ Mezi supy
 Velký bazar
 Hlasy mrtvých
 Mikado
+Lov: Ze zákulisí
 Neuilly-Poissy
 Borgo: Za zdmi vězení
 Neříkej mi mami
@@ -77,4 +78,3 @@ High School Heist
 Tornando a Est
 Zběsilá láska
 Africká jízda
-Cena útěchy
