@@ -50,7 +50,6 @@ Mezi supy
 Velký bazar
 Hlasy mrtvých
 Mikado
-Lov: Ze zákulisí
 Neuilly-Poissy
 Borgo: Za zdmi vězení
 Neříkej mi mami
@@ -78,3 +77,4 @@ Tohle je moje matka
 Little Loves
 První případ
 High School Heist
+Tornando a Est
